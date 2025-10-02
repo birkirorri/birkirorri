@@ -1,8 +1,8 @@
 ## Hi there i am Birkir👋
 
-## I'm a newly graduated bioinformatician 😄
+### I'm a newly graduated bioinformatician 😄
 
-## 👣 My journey:
+👣 My journey:
 
 ☑️ I got my bachelor’s degree in Molecular Biology at the University of Iceland
 
@@ -14,9 +14,9 @@
 
 ☑️ Got the opportunity to do a master’s project about deep learning that furthered my insights into that field
 
-## On my GitHub you will find some of my projects (some finished, some ongoing)
+- On my GitHub you will find some of my projects (some finished, some ongoing)
 
-I love tinkering with all kinds of data, all the way from biological data to trying to find a way to predict clear-air turbulence (I hate turbulence) 🧬 ✈️
+- I love tinkering with all kinds of data, all the way from biological data to trying to find a way to predict clear-air turbulence (I hate turbulence) 🧬 ✈️
 
 
 
