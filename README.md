@@ -12,7 +12,7 @@
 
 ☑️ During my studies there I learned a lot about analyzing data but also a lot about generative models and deep learning
 
-☑️ Got the opportunity to do a master’s project about deep learning that furthered my insights into that field
+☑️ Got the opportunity to do a master’s project about deep learning to get even better insights into that field
 
 - On my GitHub you will find some of my projects (some finished, some ongoing)
 
