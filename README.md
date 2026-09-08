@@ -1,7 +1,5 @@
 ## Hi there i am Birkir👋
 
-### I'm a newly graduated bioinformatician 😄
-
 👣 My journey:
 
 ☑️ I got my bachelor’s degree in Molecular Biology at the University of Iceland
