@@ -14,7 +14,7 @@
 
 - On my GitHub you will find some of my projects (some finished, some ongoing)
 
-- I love tinkering with all kinds of data, all the way from biological data to trying to find a way to predict clear-air turbulence (I hate turbulence) 🧬 ✈️
+- I love tinkering with all kinds of data, all the way from biological data to trying to find a way to predict clear-air turbulence (I hate turbulence)
 
 
 
